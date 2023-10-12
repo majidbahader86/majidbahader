@@ -14,11 +14,24 @@
     background-size: 100%;
     }
 #email1 {
-    margin-left: 25px;
+    margin-left: 75px;
+    }
+#firstname {
+    margin-left: 50px;
 }
+#secondname {
+    margin-left: 50px;
+}
+
+#pass {
+    margin-left: 50px;
+}        
+  
+
  label{
     color: aliceblue;
  }
+
 
     
 
