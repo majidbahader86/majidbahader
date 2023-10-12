@@ -10,7 +10,17 @@
     border: 1px solid black;
     height: 500px;
     margin-bottom: 10px;
+    background-image: url('./images/1');
+    background-size: 100%;
     }
+#email1 {
+    margin-left: 25px;
+}
+ label{
+    color: aliceblue;
+ }
+
+    
 
 #footer {
     border: 2px solid black;
